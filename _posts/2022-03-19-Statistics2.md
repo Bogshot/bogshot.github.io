@@ -1,7 +1,8 @@
 ---
 layout: single
 title: "수리통계학"
-permalink: /statistics2/
+permalink:  /statistics2/
+
 ---
 
 ## 목차 설정 Test
