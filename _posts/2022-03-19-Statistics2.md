@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Statis"
-permalink: /statistics2/
+title: "Statistics"
+permalink: /statistics/
 ---
 
-## 목차 설정 Test
+## 수리통계학
 
-1장 확률(https://bogshot.github.io/statistics/probability(1)/)
+[수리통계 - 1장 확률](https://bogshot.github.io/statistics/probability(1)/)
