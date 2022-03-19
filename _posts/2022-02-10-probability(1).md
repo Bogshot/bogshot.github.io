@@ -14,6 +14,7 @@ post:
 ### 기본 정의
   
   
+  
 ◦ 실험(experiment)  
   : 어떤 현상의 관측결과를 얻기 위한 과정  
 ◦ 표본공간(sample space)  
